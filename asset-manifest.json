@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weatherbuddy/static/css/main.d135036e.css",
+    "main.js": "/weatherbuddy/static/js/main.b5dca7b3.js",
+    "static/js/787.d9312eb8.chunk.js": "/weatherbuddy/static/js/787.d9312eb8.chunk.js",
+    "static/media/cloud.png": "/weatherbuddy/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/weatherbuddy/index.html",
+    "main.d135036e.css.map": "/weatherbuddy/static/css/main.d135036e.css.map",
+    "main.b5dca7b3.js.map": "/weatherbuddy/static/js/main.b5dca7b3.js.map",
+    "787.d9312eb8.chunk.js.map": "/weatherbuddy/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d135036e.css",
+    "static/js/main.b5dca7b3.js"
+  ]
+}
